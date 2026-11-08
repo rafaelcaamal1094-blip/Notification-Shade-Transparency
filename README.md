@@ -8,7 +8,7 @@
 ## To-Do
 - [x] GUI
 - [x] QS tiles part
-- [ ] Tint coloring
+- [x] Tint coloring
 
 ## Older systems preview
 ![Light theme preview on Android 13](notifshade13.png)![Preview on Android 12 without tint](notifshade.png "Preview on Android 12 without tint")
